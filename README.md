@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Zhengrun Chen.
-- 🌱 I’m currently an Econ Ph.D. at UNC-Chape Hill.
+- 🌱 I’m currently an Econ Ph.D. student at UNC-Chape Hill.
 - 👀 I’m interested in econometrics.
 
 <!---
